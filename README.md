@@ -9,3 +9,9 @@ for a little bit).  Show how long they've been running.
 
 Use: https://github.com/fyne-io/fyne
 
+Requirements:
+- API for adding processes to watch list (curl? unix pipe?)
+    - Ignore if they terminate under a threshold?
+- Refresh process status, runtime
+- Color-coded by age
+- Beep when process terminates
